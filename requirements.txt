@@ -1,0 +1,8 @@
+# Dependencies imported by adaptive-ids.py and adaptive-ids.ipynb
+# Developed using Python 3.11
+numpy
+pandas
+torch
+scikit-learn
+tqdm
+matplotlib
